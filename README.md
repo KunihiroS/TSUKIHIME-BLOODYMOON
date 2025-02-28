@@ -19,7 +19,15 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
 - Accent Color: `#C33150` - Vibrant red used for highlights and important UI elements
 
 ## Screenshots
-![Theme Preview](https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/preview.png)  
+
+<p align="center">
+  <img src="./assets/cover_01.jpg" width="48%" alt="Theme Preview 1" />
+  <img src="./assets/cover_02.jpg" width="48%" alt="Theme Preview 2" />
+</p>
+
+<p align="center">
+  <img src="./assets/cover_03.jpg" width="98%" alt="Theme Preview 3" />
+</p>
 
 ## Installation
 
