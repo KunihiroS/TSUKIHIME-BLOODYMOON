@@ -1,67 +1,47 @@
-# ANNO BLUE Theme
+# TSUKIHIME BLOODY MOON Theme
 
-This is unofficial VSC theme inspired by Director Hideaki Annno's blue color.
-Mr. Anno performs brilliant blue color usage in his films.
-I truely respect his work a lot.
+This is an unofficial VS Code theme based on the red colors of Tsukihime. 
+The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves as a character theme color.
 
-**DISCLAIMER**: This theme is an unofficial fan work inspired by the color palettes used in various works directed by Hideaki Anno. All rights to the original works, including images used in screenshots, belong to their respective copyright holders. This theme is not affiliated with or endorsed by Hideaki Anno, Studio Khara, or any other rights holders.
+**Disclaimer**: This theme is an unofficial fan work inspired by the colors of Tsukihime. All rights to the original work, including any images used in screenshots, belong to their respective copyright holders.
 
 ## Features
 
-- 💠 Deep blue-based dark theme optimized for long coding sessions
-- 🎨 Carefully selected color palette for better readability
-- 🖥 Consistent styling across the entire VSCode interface
-- ⚡ Optimized syntax highlighting for better code comprehension
+- 💠 Deep red-based dark theme optimized for long coding sessions
+- 🎨 Carefully selected color palette for maximum readability
+- 🖥 Consistent styling throughout VS Code
+- ⚡ Syntax highlighting optimized for better code comprehension
 
 ## Color Palette
 
-- Main Color: `#0A0E3B` - The foundation of our theme, a deep midnight blue
-- Secondary Color: `#090F43` - A slightly lighter shade for subtle contrast
-- Accent Color: `#0C1154` - Used for highlighting and important UI elements
+- Main Color: `#4A0F20` - Deep red that forms the foundation of the theme
+- Secondary Color: `#72163D` - Slightly lighter shade that creates subtle contrast
+- Accent Color: `#C33150` - Vibrant red used for highlights and important UI elements
 
 ## Screenshots
-![Theme Preview - Nadia](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/nadia.png)  
-![Theme Preview - AAA Wunder 1](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/AAA_Wunder_01.jpg)  
-![Theme Preview - AAA Wunder 2](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/AAA_Wunder_02.jpg)  
-![Theme Overview](https://raw.githubusercontent.com/KunihiroS/ANNO-BLUE/main/assets/anno-bule-ss.png)  
+![Theme Preview](https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/preview.png)  
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-2. Search for `ANNO BLUE`
+1. Open the **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for `TSUKIHIME BLOODY MOON`
 3. Click **Install**
-4. Click **Reload** to reload your editor
-5. Code > Preferences > Color Theme > **ANNO BLUE**
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **TSUKIHIME BLOODY MOON**
 
 ## Feedback
 
-- If you have suggestions or issues, please open an issue at [GitHub repository](https://github.com/KunihiroS/ANNO-BLUE)
+- If you have suggestions or issues, please open an Issue on the [GitHub repository](https://github.com/KunihiroS/TSUKIHIME-BLOODYMOON)
 
 ## Version History
 
-### 0.1.5
-- Changed scrollbar color to match theme's darkest blue (#060830)
-
-### 0.1.4
-- Changed scrollbar color to solid black for better visibility
-
-### 0.1.3
-- Changed scrollbar color to darker blue for better visibility
-
-### 0.1.2
-- Added proper copyright disclaimer and license clarification
-- Updated documentation to acknowledge original inspiration
-
-### 0.1.1
-- Refined selection highlight color to better match theme concept (#0237aa)
-
-### 0.1.0
+### 0.0.1
 - Initial release
-- Deep blue-based dark theme implementation inspired by Anno's color palette
-- Carefully selected selection highlight colors for optimal readability
+- Implementation of dark theme based on Tsukihime's red colors
+- Carefully selected highlight colors for optimal readability
 
 ## License
 
-The theme's source code is released under the MIT License. 
+The source code for this theme is released under the MIT License.
 
-Note: This license applies only to the theme's code and color configurations. The screenshot images used in the documentation are for demonstration purposes only and remain the property of their respective copyright holders.
+Note: This license applies only to the theme code and color settings. Any screenshot images used in documentation are for demonstration purposes only and are the property of their respective copyright holders.
