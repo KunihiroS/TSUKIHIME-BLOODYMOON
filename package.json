@@ -1,0 +1,57 @@
+{
+    "name": "annoblue",
+    "displayName": "ANNO BLUE",
+    "description": "A sophisticated dark theme with carefully crafted deep blue variations for Visual Studio Code.",
+    "version": "0.1.5",
+    "publisher": "kunihiros",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KunihiroS/ANNO-BLUE"
+    },
+    "engines": {
+        "vscode": "^1.77.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "blue",
+        "anno blue",
+        "color theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ANNO BLUE",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tsukihime-bloodymoon-color-theme.json"
+            }
+        ]
+    },
+    "icon": "assets/anno-bule-ss.png",
+    "galleryBanner": {
+        "color": "#0A0E3B",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "screenshots": [
+        {
+            "path": "assets/nadia.png",
+            "label": "Theme Preview - Nadia"
+        },
+        {
+            "path": "assets/AAA_Wunder_01.jpg",
+            "label": "Theme Preview - AAA Wunder 1"
+        },
+        {
+            "path": "assets/AAA_Wunder_02.jpg",
+            "label": "Theme Preview - AAA Wunder 2"
+        },
+        {
+            "path": "assets/anno-bule-ss.png",
+            "label": "Theme Overview"
+        }
+    ]
+}
