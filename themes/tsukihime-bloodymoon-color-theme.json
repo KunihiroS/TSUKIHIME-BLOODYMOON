@@ -1,86 +1,86 @@
 {
-    "name": "ANNO BLUE",
+    "name": "Tsukihime Bloody Moon",
     "type": "dark",
     "colors": {
-        "editor.background": "#0A0E3B",
-        "editor.foreground": "#B5B9E3",
-        "editorCursor.foreground": "#528bff",
-        "editor.lineHighlightBackground": "#090F43",
-        "editor.selectionBackground": "#0237aa",
-        "editor.inactiveSelectionBackground": "#0237aa",
-        "editorIndentGuide.background": "#090F43",
-        "editorIndentGuide.activeBackground": "#0C1154",
-        "activityBar.background": "#060830",
-        "activityBar.foreground": "#B5B9E3",
-        "activityBarBadge.background": "#0C1154",
+        "editor.background": "#4A0F20",
+        "editor.foreground": "#C33150",
+        "editorCursor.foreground": "#C33150",
+        "editor.lineHighlightBackground": "#72163D",
+        "editor.selectionBackground": "#72163D",
+        "editor.inactiveSelectionBackground": "#72163D",
+        "editorIndentGuide.background": "#72163D",
+        "editorIndentGuide.activeBackground": "#C33150",
+        "activityBar.background": "#72163D",
+        "activityBar.foreground": "#C33150",
+        "activityBarBadge.background": "#4A0F20",
         "activityBarBadge.foreground": "#ffffff",
-        "sideBar.background": "#090F43",
-        "sideBar.foreground": "#B5B9E3",
-        "sideBarTitle.foreground": "#B5B9E3",
-        "sideBarSectionHeader.background": "#0A0E3B",
-        "sideBarSectionHeader.foreground": "#B5B9E3",
-        "titleBar.activeBackground": "#060830",
-        "titleBar.activeForeground": "#B5B9E3",
-        "statusBar.background": "#060830",
-        "statusBar.foreground": "#B5B9E3",
-        "statusBar.noFolderBackground": "#060830",
-        "tab.activeBackground": "#0A0E3B",
-        "tab.inactiveBackground": "#090F43",
-        "tab.activeForeground": "#B5B9E3",
-        "tab.inactiveForeground": "#8A8DB3",
-        "list.activeSelectionBackground": "#0237aa",
+        "sideBar.background": "#72163D",
+        "sideBar.foreground": "#C33150",
+        "sideBarTitle.foreground": "#C33150",
+        "sideBarSectionHeader.background": "#4A0F20",
+        "sideBarSectionHeader.foreground": "#C33150",
+        "titleBar.activeBackground": "#72163D",
+        "titleBar.activeForeground": "#C33150",
+        "statusBar.background": "#72163D",
+        "statusBar.foreground": "#C33150",
+        "statusBar.noFolderBackground": "#72163D",
+        "tab.activeBackground": "#4A0F20",
+        "tab.inactiveBackground": "#72163D",
+        "tab.activeForeground": "#C33150",
+        "tab.inactiveForeground": "#C33150",
+        "list.activeSelectionBackground": "#72163D",
         "list.activeSelectionForeground": "#ffffff",
-        "list.hoverBackground": "#090F43",
-        "list.hoverForeground": "#B5B9E3",
-        "list.inactiveSelectionBackground": "#0237aa",
-        "input.background": "#090F43",
-        "input.foreground": "#B5B9E3",
-        "input.border": "#0C1154",
-        "button.background": "#0C1154",
+        "list.hoverBackground": "#4A0F20",
+        "list.hoverForeground": "#C33150",
+        "list.inactiveSelectionBackground": "#72163D",
+        "input.background": "#4A0F20",
+        "input.foreground": "#C33150",
+        "input.border": "#72163D",
+        "button.background": "#72163D",
         "button.foreground": "#ffffff",
-        "button.hoverBackground": "#0D1361",
-        "panel.background": "#090F43",
-        "panel.border": "#0C1154",
-        "panelTitle.activeForeground": "#B5B9E3",
-        "panelTitle.inactiveForeground": "#8A8DB3",
-        "badge.background": "#0C1154",
+        "button.hoverBackground": "#C33150",
+        "panel.background": "#72163D",
+        "panel.border": "#4A0F20",
+        "panelTitle.activeForeground": "#C33150",
+        "panelTitle.inactiveForeground": "#C33150",
+        "badge.background": "#4A0F20",
         "badge.foreground": "#ffffff",
-        "scrollbarSlider.background": "#060830",
-        "scrollbarSlider.hoverBackground": "#060830",
-        "scrollbarSlider.activeBackground": "#060830",
-        "editor.selectionHighlightBackground": "#0237aa",
-        "selection.background": "#0237aa"
+        "scrollbarSlider.background": "#72163D",
+        "scrollbarSlider.hoverBackground": "#72163D",
+        "scrollbarSlider.activeBackground": "#72163D",
+        "editor.selectionHighlightBackground": "#C33150",
+        "selection.background": "#C33150"
     },
     "tokenColors": [
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#4B5089",
+                "foreground": "#72163D",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#7DCEA0"
+                "foreground": "#C33150"
             }
         },
         {
             "scope": ["keyword", "storage.type", "storage.modifier"],
             "settings": {
-                "foreground": "#82A4F5"
+                "foreground": "#C33150"
             }
         },
         {
             "scope": ["entity.name.function", "support.function"],
             "settings": {
-                "foreground": "#70B8FF"
+                "foreground": "#72163D"
             }
         },
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#A59CF7"
+                "foreground": "#4A0F20"
             }
         }
     ]

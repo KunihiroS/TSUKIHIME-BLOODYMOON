@@ -1,8 +1,8 @@
 {
-    "name": "annoblue",
-    "displayName": "ANNO BLUE",
-    "description": "A sophisticated dark theme with carefully crafted deep blue variations for Visual Studio Code.",
-    "version": "0.1.5",
+    "name": "tsukihime-bloodymoon-color-theme",
+    "displayName": "TSUKIHIME BLOODYMOON",
+    "description": "A sophisticated dark red theme with carefully crafted deep blue variations for Visual Studio Code.",
+    "version": "0.0.1",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
