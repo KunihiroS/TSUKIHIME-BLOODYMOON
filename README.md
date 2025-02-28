@@ -21,16 +21,16 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_03.jpg?token=AD3KD645GEPWT2MUY5EKLELHYGR76" width="98%" alt="Theme Preview 3" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_03.jpg" width="98%" alt="Theme Preview 3" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_04.png?token=AD3KD6ZVFS7R6RVDYNZA6VTHYGR76" width="98%" alt="Theme Preview 4" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_04.png" width="98%" alt="Theme Preview 4" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_01.jpg?token=AD3KD63XKDDK54OTUBIWKTLHYGR76" width="48%" alt="Theme Preview 1" />
-  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_02.jpg?token=AD3KD6Z7LX5IQWQ2F7WOR4DHYGR76" width="48%" alt="Theme Preview 2" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_01.jpg" width="48%" alt="Theme Preview 1" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_02.jpg" width="48%" alt="Theme Preview 2" />
 </p>
 
 ## Installation
