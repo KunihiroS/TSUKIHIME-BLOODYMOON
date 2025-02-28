@@ -21,16 +21,16 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
 ## Screenshots
 
 <p align="center">
-  <img src="./assets/cover_03.jpg" width="98%" alt="Theme Preview 3" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_03.jpg" width="98%" alt="Theme Preview 3" />
 </p>
 
 <p align="center">
-  <img src="./assets/cover_04.png" width="98%" alt="Theme Preview 4" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_04.png" width="98%" alt="Theme Preview 4" />
 </p>
 
 <p align="center">
-  <img src="./assets/cover_01.jpg" width="48%" alt="Theme Preview 1" />
-  <img src="./assets/cover_02.jpg" width="48%" alt="Theme Preview 2" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_01.jpg" width="48%" alt="Theme Preview 1" />
+  <img src="https://raw.githubusercontent.com/KunihiroS/TSUKIHIME-BLOODYMOON/main/assets/cover_02.jpg" width="48%" alt="Theme Preview 2" />
 </p>
 
 ## Installation
@@ -46,8 +46,10 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
 - If you have suggestions or issues, please open an Issue on the [GitHub repository](https://github.com/KunihiroS/TSUKIHIME-BLOODYMOON)
 
 ## Version History
+### 0.0.3
+- Fix image path to full path.
 
-### 0.02
+### 0.0.2
 - README edited.
 
 ### 0.0.1

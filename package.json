@@ -2,7 +2,7 @@
     "name": "tsukihime-bloodymoon-color-theme",
     "displayName": "TSUKIHIME BLOODYMOON",
     "description": "A sophisticated dark red theme based on the red colors of Tsukihime for Visual Studio Code.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
@@ -28,7 +28,18 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/tsukihime-bloodymoon-color-theme.json"
             }
-        ]
+        ],
+        "galleryBanner": {
+            "color": "#4A0F20",
+            "theme": "dark"
+        },
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/KunihiroS/TSUKIHIME-BLOODYMOON"
+        },
+        "bugs": {
+            "url": "https://github.com/KunihiroS/TSUKIHIME-BLOODYMOON/issues"
+        }
     },
     "icon": "assets/cover_01.jpg",
     "galleryBanner": {

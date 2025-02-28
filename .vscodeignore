@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!assets/**# Explicitly include assets folder*.tsbuildinfo*.log# Files.vscode/coverage/dist/out/node_modules/# Folders# .vscodeignore
