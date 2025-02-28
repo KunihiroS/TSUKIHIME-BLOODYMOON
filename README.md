@@ -16,7 +16,7 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
 
 - Main Color: `#4A0F20` - Deep red that forms the foundation of the theme
 - Secondary Color: `#72163D` - Slightly lighter shade that creates subtle contrast
-- Accent Color: `#C33150` - Vibrant red used for highlights and important UI elements
+- Accent Color: `#FF5A7E` - Vibrant pink used for highlights and important UI elements
 
 ## Screenshots
 
@@ -46,16 +46,8 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
 - If you have suggestions or issues, please open an Issue on the [GitHub repository](https://github.com/KunihiroS/TSUKIHIME-BLOODYMOON)
 
 ## Version History
-### 0.0.3
-- Fix image path to full path.
-
-### 0.0.2
-- README edited.
-
-### 0.0.1
+### 0.1.0
 - Initial release
-- Implementation of dark theme based on Tsukihime's red colors
-- Carefully selected highlight colors for optimal readability
 
 ## License
 
