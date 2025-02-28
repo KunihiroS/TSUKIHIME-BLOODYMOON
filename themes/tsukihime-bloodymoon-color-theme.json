@@ -3,84 +3,103 @@
     "type": "dark",
     "colors": {
         "editor.background": "#4A0F20",
-        "editor.foreground": "#C33150",
-        "editorCursor.foreground": "#C33150",
-        "editor.lineHighlightBackground": "#72163D",
-        "editor.selectionBackground": "#72163D",
-        "editor.inactiveSelectionBackground": "#72163D",
-        "editorIndentGuide.background": "#72163D",
+        "editor.foreground": "#ff838b", // 常用フォントを淡いピンクに変更
+        "editorCursor.foreground": "#FF5A7E",
+        "editor.lineHighlightBackground": "#3A0A1F",
+        "editor.selectionBackground": "#5A1030",
+        "editor.inactiveSelectionBackground": "#3A0A1F",
+        "editorIndentGuide.background": "#3A0A1F",
         "editorIndentGuide.activeBackground": "#C33150",
-        "activityBar.background": "#72163D",
-        "activityBar.foreground": "#C33150",
-        "activityBarBadge.background": "#4A0F20",
+        "activityBar.background": "#2C0812",
+        "activityBar.foreground": "#FF5A7E",
+        "activityBarBadge.background": "#C33150",
         "activityBarBadge.foreground": "#ffffff",
-        "sideBar.background": "#72163D",
-        "sideBar.foreground": "#C33150",
-        "sideBarTitle.foreground": "#C33150",
-        "sideBarSectionHeader.background": "#4A0F20",
-        "sideBarSectionHeader.foreground": "#C33150",
-        "titleBar.activeBackground": "#72163D",
-        "titleBar.activeForeground": "#C33150",
-        "statusBar.background": "#72163D",
-        "statusBar.foreground": "#C33150",
-        "statusBar.noFolderBackground": "#72163D",
+        "sideBar.background": "#2C0812",
+        "sideBar.foreground": "#ff838b", // サイドバーのフォントも同じ淡いピンクに
+        "sideBarTitle.foreground": "#FF5A7E",
+        "sideBarSectionHeader.background": "#3A0A1F",
+        "sideBarSectionHeader.foreground": "#FF5A7E",
+        "titleBar.activeBackground": "#2C0812",
+        "titleBar.activeForeground": "#ff838b", // タイトルバーのフォントも同じ淡いピンクに
+        "statusBar.background": "#2C0812",
+        "statusBar.foreground": "#ff838b", // ステータスバーのフォントも同じ淡いピンクに
+        "statusBar.noFolderBackground": "#2C0812",
         "tab.activeBackground": "#4A0F20",
-        "tab.inactiveBackground": "#72163D",
-        "tab.activeForeground": "#C33150",
-        "tab.inactiveForeground": "#C33150",
-        "list.activeSelectionBackground": "#72163D",
+        "tab.inactiveBackground": "#2C0812",
+        "tab.activeForeground": "#ff838b", // タブのアクティブフォントも同じ淡いピンクに
+        "tab.inactiveForeground": "#A08088",
+        "list.activeSelectionBackground": "#5A1030",
         "list.activeSelectionForeground": "#ffffff",
-        "list.hoverBackground": "#4A0F20",
-        "list.hoverForeground": "#C33150",
-        "list.inactiveSelectionBackground": "#72163D",
-        "input.background": "#4A0F20",
-        "input.foreground": "#C33150",
-        "input.border": "#72163D",
-        "button.background": "#72163D",
+        "list.hoverBackground": "#3A0A1F",
+        "list.hoverForeground": "#ff838b", // リストのホバー時のフォントも同じ淡いピンクに
+        "list.inactiveSelectionBackground": "#3A0A1F",
+        "input.background": "#2C0812",
+        "input.foreground": "#ff838b", // 入力欄のフォントも同じ淡いピンクに
+        "input.border": "#5A1030",
+        "button.background": "#5A1030",
         "button.foreground": "#ffffff",
         "button.hoverBackground": "#C33150",
-        "panel.background": "#72163D",
-        "panel.border": "#4A0F20",
-        "panelTitle.activeForeground": "#C33150",
-        "panelTitle.inactiveForeground": "#C33150",
-        "badge.background": "#4A0F20",
+        "panel.background": "#2C0812",
+        "panel.border": "#3A0A1F",
+        "panelTitle.activeForeground": "#ff838b", // パネルタイトルのアクティブフォントも同じ淡いピンクに
+        "panelTitle.inactiveForeground": "#A08088",
+        "badge.background": "#C33150",
         "badge.foreground": "#ffffff",
-        "scrollbarSlider.background": "#72163D",
-        "scrollbarSlider.hoverBackground": "#72163D",
-        "scrollbarSlider.activeBackground": "#72163D",
-        "editor.selectionHighlightBackground": "#C33150",
-        "selection.background": "#C33150"
+        "scrollbarSlider.background": "#5A1030AA",
+        "scrollbarSlider.hoverBackground": "#72163DCC",
+        "scrollbarSlider.activeBackground": "#C33150AA",
+        "editor.selectionHighlightBackground": "#5A1030",
+        "selection.background": "#5A1030"
     },
     "tokenColors": [
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#72163D",
+                "foreground": "#A08088",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#C33150"
+                "foreground": "#FF7E9D"
             }
         },
         {
             "scope": ["keyword", "storage.type", "storage.modifier"],
             "settings": {
-                "foreground": "#C33150"
+                "foreground": "#FF5A7E"
             }
         },
         {
             "scope": ["entity.name.function", "support.function"],
             "settings": {
-                "foreground": "#72163D"
+                "foreground": "#FF9CAF"
             }
         },
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#4A0F20"
+                "foreground": "#ff838b" // 変数のフォント色も同じ淡いピンクに
+            }
+        },
+        {
+            "scope": ["constant", "entity.name.type", "support.type"],
+            "settings": {
+                "foreground": "#FFB3C6"
+            }
+        },
+        {
+            "scope": ["punctuation", "meta.brace"],
+            "settings": {
+                "foreground": "#CCA2AD"
+            }
+        },
+        {
+            "scope": ["entity.name.tag", "support.class"],
+            "settings": {
+                "foreground": "#FF5A7E",
+                "fontStyle": "bold"
             }
         }
     ]

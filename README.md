@@ -29,6 +29,10 @@ The red moon (Akaki Tsuki) is an important keyword in Tsukihime and also serves 
   <img src="./assets/cover_03.jpg" width="98%" alt="Theme Preview 3" />
 </p>
 
+<p align="center">
+  <img src="./assets/cover_04.png" width="98%" alt="Theme Preview 4" />
+</p>
+
 ## Installation
 
 1. Open the **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)

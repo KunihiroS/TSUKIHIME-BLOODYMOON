@@ -1,12 +1,12 @@
 {
     "name": "tsukihime-bloodymoon-color-theme",
     "displayName": "TSUKIHIME BLOODYMOON",
-    "description": "A sophisticated dark red theme with carefully crafted deep blue variations for Visual Studio Code.",
+    "description": "A sophisticated dark red theme based on the red colors of Tsukihime for Visual Studio Code.",
     "version": "0.0.1",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
-        "url": "https://github.com/KunihiroS/ANNO-BLUE"
+        "url": "https://github.com/KunihiroS/TSUKIHIME-BLOODYMOON"
     },
     "engines": {
         "vscode": "^1.77.0"
@@ -17,41 +17,37 @@
     "keywords": [
         "theme",
         "dark theme",
-        "blue",
-        "anno blue",
+        "red",
+        "tsukihime",
         "color theme"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "ANNO BLUE",
+                "label": "TSUKIHIME BLOODYMOON",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tsukihime-bloodymoon-color-theme.json"
             }
         ]
     },
-    "icon": "assets/anno-bule-ss.png",
+    "icon": "assets/cover_01.jpg",
     "galleryBanner": {
-        "color": "#0A0E3B",
+        "color": "#4A0F20",
         "theme": "dark"
     },
     "license": "MIT",
     "screenshots": [
         {
-            "path": "assets/nadia.png",
-            "label": "Theme Preview - Nadia"
+            "path": "assets/cover_01.jpg",
+            "label": "Theme Preview 1"
         },
         {
-            "path": "assets/AAA_Wunder_01.jpg",
-            "label": "Theme Preview - AAA Wunder 1"
+            "path": "assets/cover_02.jpg",
+            "label": "Theme Preview 2"
         },
         {
-            "path": "assets/AAA_Wunder_02.jpg",
-            "label": "Theme Preview - AAA Wunder 2"
-        },
-        {
-            "path": "assets/anno-bule-ss.png",
-            "label": "Theme Overview"
+            "path": "assets/cover_03.jpg",
+            "label": "Theme Preview 3"
         }
     ]
 }
